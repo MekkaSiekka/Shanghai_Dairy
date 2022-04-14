@@ -11,8 +11,14 @@ Everyday shit happens in this city and I just wanna write down the shit I have b
 张江纳仕社区强制征用住户小区作为集中隔离点
 可信度 9/10
 
+<<<<<<< HEAD
 <img src="./20220414/nashi_international_post.jpg" alt="Kitten" title="A cute kitten" width="720" /> \
 <video width="720"  controls>
   <source src="./20220414/nashi_international_riot.mp4" type="video/mp4">
 </video>\
+=======
+<img src="./20220414/nashi_international_post.jpg" alt="nashi international post" title="A cute kitten" width="720" /> \
+<video src="./20220414/nashi_international_riot.mp4" width="720"/> \
+
+>>>>>>> add video
 
