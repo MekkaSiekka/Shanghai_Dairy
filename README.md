@@ -10,7 +10,7 @@ Everyday shit happens in this city and I just wanna write down the shit I have b
 ### 4.14
 张江纳仕社区强制征用住户小区作为集中隔离点
 可信度 9/10
-![WeChat Image_20220414202920](https://user-images.githubusercontent.com/36904550/163390800-53263b43-56f3-4c89-841e-1e1612db12ad.png)
+<img src="./20220414/nashi_international_post.jpg" alt="Kitten" title="A cute kitten" width="150" /> 
 
-https://user-images.githubusercontent.com/36904550/163390759-afbbdf7f-20db-476b-90ab-941ad6c1eef0.mp4
+
 
