@@ -12,11 +12,7 @@ Everyday shit happens in this city and I just wanna write down the shit I have b
 可信度 9/10
 
 <img src="./20220414/nashi_international_post.jpg" alt="nashi international post" title="A cute kitten" width="720" /> \
+https://user-images.githubusercontent.com/36904550/163398166-f74e44a1-5f8a-469c-91ac-eb70cdd662ce.mp4
 
-<dl>
-<video width="320" height="240" controls>
-  <source src="./20220414/nashi_international_riot.mp4" type="video/mp4">
-<video>
-</dl>
 
 
